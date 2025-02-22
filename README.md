@@ -1,6 +1,6 @@
 ## Hi there 👋
-  ⚡Im Ben
-  #🔭Im currently pursuing a degree in Information Technology
+  ⚡My names Ben.  
+  🔭I'm currently pursuing a degree in Information Technology.  
 <!--
 **loyab1/loyab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
