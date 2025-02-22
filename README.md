@@ -1,6 +1,7 @@
 ## Hi there 👋
   ⚡My names Ben.  
   🔭I'm currently pursuing a degree in Information Technology.  
+  💻The language I am learning right now is Python!  
 <!--
 **loyab1/loyab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
