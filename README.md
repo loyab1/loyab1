@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**loyab1/loyab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me 👋
+- 🔭 I’m pursuing a Bachelors in Information Technology
+- 🌱 I’m currently learning using Java
+- 🤔 I’m looking for help with understanding Programming Concepts
+- ⚡ Fun fact: I have never used a type writer
+- 🎯 Current Goal: Learn Programming Fundamentals
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA A+
+- CompTIA Network +
+- CompTIA Security +
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goal: Learn Programming Fundamentals
